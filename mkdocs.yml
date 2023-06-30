@@ -2,5 +2,6 @@ site_name: 'June'
 
 nav:
   - Home: index.md
+  - About: About.md
 plugins:
   - techdocs-core
